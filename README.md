@@ -22,7 +22,7 @@ a simple declarative mechanism.
 Changes in the forked version
 ------------------------------
 
-[Decoupled/Customm implementation](https://github.com/jacobceles/jsonform/tree/master/decoupled_project_implementation) of [jsonform](https://github.com/jsonform/jsonform) is a simpler version of the original project, with a better structure and enables easier upgrades. The custom implementation is in the form of a standalone project. You can find it in the [decoupled_project_implementation](https://github.com/jacobceles/jsonform/tree/master/decoupled_project_implementation) folder. A quick glance into the changes:
+[Decoupled/Custom implementation](https://github.com/jacobceles/jsonform/tree/master/decoupled_project_implementation) of [jsonform](https://github.com/jsonform/jsonform) is a simpler version of the original project, with a better structure and enables easier upgrades. The custom implementation is in the form of a standalone project. You can find it in the [decoupled_project_implementation](https://github.com/jacobceles/jsonform/tree/master/decoupled_project_implementation) folder. A quick glance into the changes:
 * Decoupled source and form components - Enables users to enhance JSON without touching code.
 * Decoupled Bootstrap CSS and Custom CSS - Enables easy bootstrap upgrade.
 * Decoupled custom JS and upgradable ones - Enables easy upgrade.
