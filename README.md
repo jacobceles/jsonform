@@ -10,7 +10,7 @@ JSON Form
 
 The JSON Form library is a JavaScript client-side library that takes a
 structured data model defined using [JSON Schema](http://json-schema.org/) as
-input and returns a [Bootstrap 3](https://getbootstrap.com/docs/3.3/)-friendly
+input and returns a [Bootstrap 4](https://getbootstrap.com/docs/4.5/getting-started/introduction/)-friendly
 HTML form that matches the schema.
 
 The generated HTML form includes client-side validation logic that provides direct inline feedback to the user upon form submission (provided a JSON Schema validator is available). If values are valid, the JSON Form library uses submitted values to create the JavaScript data structure that matches the data model.
